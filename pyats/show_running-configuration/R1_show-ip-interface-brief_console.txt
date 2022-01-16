@@ -1,0 +1,7 @@
++++ R1: executing command 'show ip interface brief' +++
+show ip interface brief
+Interface                  IP-Address      OK? Method Status                Protocol
+FastEthernet0/0            192.168.1.1     YES manual up                    up      
+Serial0/0                  10.0.0.1        YES NVRAM  up                    up      
+FastEthernet0/1            unassigned      YES NVRAM  administratively down down    
+R1#
